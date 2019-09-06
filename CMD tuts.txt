@@ -1,0 +1,27 @@
+cd = change directory; ex= c:\users\sohan>cd desktop
+cd . . = back button 
+
+dir = directory inside file list
+
+cls = clean screen
+
+mkdir = make dir; ex = mkdir foldername 
+
+rmdir = remove dir; rmdir foldername 
+
+path = path variable 
+
+
+wmic logicaldisk get name = all drives name 
+
+color /? = all color name
+
+attrib
+
+del filename = delete file 
+
+coppy filename foldername = coppy file to folder 
+
+move filename foldername 
+
+rename filename newname 
